@@ -1,4 +1,4 @@
-# Sales Dashboard (R Shiny)
+#  (R Shiny)
 
 ## Overview
 This project is an interactive Sales Dashboard built using R Shiny and the Sample Superstore dataset.
